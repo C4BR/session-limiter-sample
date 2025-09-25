@@ -1,6 +1,6 @@
 const orderedActiveSessions = [
     {id:1, status:"ATIVA"}, {id:2, status:"ATIVA"}, {id:3, status:"ATIVA"}, {id:4, status:"ATIVA"}, 
-    {id:5, status:"ATIVA"}, {id:6, status:"ATIVA"}, {id:7, status:"ATIVA"}, {is:8, status:"ATIVA"}, 
+    {id:5, status:"ATIVA"}, {id:6, status:"ATIVA"}, {id:7, status:"ATIVA"}, {id:8, status:"ATIVA"}, 
     {id:9, status:"ATIVA"}, {id:10, status:"ATIVA"}
 ]
 
